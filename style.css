@@ -1,0 +1,22 @@
+.homepage {
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+}
+
+
+.link,
+li a  {
+    text-align: center;
+    text-decoration: underline;
+    list-style-type: none;
+    line-height: 20px;
+    background-color: orange;
+    color: white;
+    font-weight: bold;
+    text-shadow: 1px 1px black;
+}
+
+#box {
+    border: 2px solid orange;
+    background-color: orange;
+}
